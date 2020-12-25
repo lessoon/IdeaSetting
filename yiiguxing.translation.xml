@@ -1,0 +1,79 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="761" />
+    <option name="newTranslationDialogY" value="492" />
+    <histories>
+      <item value="exclude" />
+      <item value="step" />
+      <item value="setp" />
+      <item value="s" />
+      <item value="参数" />
+      <item value="compare" />
+      <item value="set Map Underscore To Camel Case" />
+      <item value="is Db Column Underline" />
+      <item value="get Identifier Quote" />
+      <item value="Vendor Database Id Provider" />
+      <item value="注解" />
+      <item value="zhu jie" />
+      <item value="z" />
+      <item value="Service" />
+      <item value="total" />
+      <item value="totaltotal" />
+      <item value="组装" />
+      <item value="get First Day Of Month" />
+      <item value="第一" />
+      <item value="di" />
+      <item value="frist" />
+      <item value="fris" />
+      <item value="frister" />
+      <item value="fr" />
+      <item value="fritter" />
+      <item value="frits" />
+      <item value="frite" />
+      <item value="f" />
+      <item value="get Frist Month" />
+      <item value="begin" />
+      <item value="开始" />
+      <item value="开始了" />
+      <item value="beging" />
+      <item value="check Is Begin Day Month" />
+      <item value="check Is Begin Month Day" />
+      <item value="月初" />
+      <item value="yeu" />
+      <item value="check Isy" />
+      <item value="check Is" />
+      <item value="日本" />
+      <item value="Biz Msg Handle Send Msg Dao" />
+      <item value="容器" />
+      <item value="done" />
+      <item value="完成" />
+      <item value="进度条" />
+      <item value="进度" />
+      <item value="archive" />
+      <item value="com Msg Handle Entity" />
+      <item value="拼装" />
+      <item value="pin zhuang" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="28" />
+        <entry key="AMHARIC" value="1" />
+        <entry key="CHICHEWA" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1608514102150" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="phoneticFontFamily" value="JetBrains Mono" />
+    <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
