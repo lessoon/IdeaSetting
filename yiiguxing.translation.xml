@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="761" />
     <option name="newTranslationDialogY" value="492" />
     <histories>
+      <item value="小于等于" />
+      <item value="小于" />
       <item value="记得" />
       <item value="jide" />
       <item value="Marry me" />
@@ -51,8 +53,6 @@
       <item value="Biz Msg Handle Send Msg Dao" />
       <item value="容器" />
       <item value="done" />
-      <item value="完成" />
-      <item value="进度条" />
     </histories>
     <option name="languageScores">
       <map>
