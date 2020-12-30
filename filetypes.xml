@@ -4,6 +4,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="CM3BKBH" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
