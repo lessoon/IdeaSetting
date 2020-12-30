@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="164" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="Atomically increments by one the current value." />
+      <item value="RECV-TOTAL RECV-AUTO-FIN RECV-MAN-FIN RECV-MAN-REVISE RECV-MAN-PROC SEND-TOTAL SEND-AUTO-FIN SEND-MAN-FIN SEND-MAN-REVISE SEND-MAN-PROC SUM AUTO-SUM MAN-SUM" />
+      <item value="RECV-TOTAL RECV-Auto-FIN RECV-MAN-FIN RECV-MAN-REVISE RECV-MAN-PROC SEND-Total SEND-AUTO-FIN SEND-MAN-FIN SEND-MAN-REVISE SEND-MAN-PROC SUM AUTO-SUM MAN-SUM" />
       <item value="不匹配" />
       <item value="Can't get revBill data by original.msxKey!" />
       <item value="Can't get revBill data by original.msxKey!bu" />
@@ -51,14 +54,11 @@
       <item value="frite" />
       <item value="f" />
       <item value="get Frist Month" />
-      <item value="begin" />
-      <item value="开始" />
-      <item value="开始了" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="36" />
         <entry key="AMHARIC" value="1" />
         <entry key="CHICHEWA" value="1" />
       </map>
