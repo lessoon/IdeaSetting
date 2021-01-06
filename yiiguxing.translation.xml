@@ -1,0 +1,80 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="1338" />
+    <option name="newTranslationDialogX" value="164" />
+    <option name="newTranslationDialogY" value="307" />
+    <histories>
+      <item value="CONTROL" />
+      <item value="证劵交易所" />
+      <item value="功能" />
+      <item value="g" />
+      <item value="mous" />
+      <item value="m" />
+      <item value="mo" />
+      <item value=" Remote host closed connection during handshake" />
+      <item value="Atomically increments by one the current value." />
+      <item value="RECV-TOTAL RECV-AUTO-FIN RECV-MAN-FIN RECV-MAN-REVISE RECV-MAN-PROC SEND-TOTAL SEND-AUTO-FIN SEND-MAN-FIN SEND-MAN-REVISE SEND-MAN-PROC SUM AUTO-SUM MAN-SUM" />
+      <item value="RECV-TOTAL RECV-Auto-FIN RECV-MAN-FIN RECV-MAN-REVISE RECV-MAN-PROC SEND-Total SEND-AUTO-FIN SEND-MAN-FIN SEND-MAN-REVISE SEND-MAN-PROC SUM AUTO-SUM MAN-SUM" />
+      <item value="不匹配" />
+      <item value="Can't get revBill data by original.msxKey!" />
+      <item value="Can't get revBill data by original.msxKey!bu" />
+      <item value="Get report date is not today!" />
+      <item value="MybatisCodeHelperPro plugin conflict found: MybatisCodeHelperPro plugin has conflict with freeMybatisPlugin,Mybatisx,mybatisLite,minbatis,Toolkit please uninstall them first" />
+      <item value="MybatisCodeHelperPro plugin conflict found: MybatisCodeHelperPro plugin has conflict with freeMybatisPlugin,Mybatisx,mybatisLite,minbatis,Toolkit please uninstall them firstMybatisCodeHelperPro plugin conflict found: MybatisCodeHelperPro plugin has conflict with freeMybatisPlugin,Mybatisx,mybatisLite,minbatis,Toolkit please uninstall them first" />
+      <item value="program name" />
+      <item value="程序" />
+      <item value="program" />
+      <item value="chengxu " />
+      <item value="cheng" />
+      <item value="小于等于" />
+      <item value="小于" />
+      <item value="记得" />
+      <item value="jide" />
+      <item value="Marry me" />
+      <item value="ID ------------Marry me" />
+      <item value="ID ------------" />
+      <item value="exclude" />
+      <item value="step" />
+      <item value="setp" />
+      <item value="s" />
+      <item value="参数" />
+      <item value="compare" />
+      <item value="set Map Underscore To Camel Case" />
+      <item value="is Db Column Underline" />
+      <item value="get Identifier Quote" />
+      <item value="Vendor Database Id Provider" />
+      <item value="注解" />
+      <item value="zhu jie" />
+      <item value="z" />
+      <item value="Service" />
+      <item value="total" />
+      <item value="totaltotal" />
+      <item value="组装" />
+      <item value="get First Day Of Month" />
+      <item value="第一" />
+      <item value="di" />
+      <item value="frist" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="36" />
+        <entry key="AMHARIC" value="1" />
+        <entry key="CHICHEWA" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1609724159949" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="phoneticFontFamily" value="JetBrains Mono" />
+    <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
