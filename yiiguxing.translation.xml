@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="164" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="Unchecked generics array creation for varargs parameter " />
       <item value="CONTROL" />
       <item value="证劵交易所" />
       <item value="功能" />
@@ -53,7 +54,6 @@
       <item value="get First Day Of Month" />
       <item value="第一" />
       <item value="di" />
-      <item value="frist" />
     </histories>
     <option name="languageScores">
       <map>
