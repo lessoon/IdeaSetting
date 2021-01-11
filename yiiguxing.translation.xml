@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="164" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value=" Add unambiguous imports on the fly&#10;" />
+      <item value=" Optimize imports on the fly&#10;" />
       <item value="Returns an immutable list containing only the specified object.&#10;The returned list is serializable." />
       <item value=" (Got an error reading communication packets)" />
       <item value=" Subscription is active until February 5, 2021.&#10;" />
@@ -52,8 +54,6 @@
       <item value="注解" />
       <item value="zhu jie" />
       <item value="z" />
-      <item value="Service" />
-      <item value="total" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,11 +70,13 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
