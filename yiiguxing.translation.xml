@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="parse" />
+      <item value="parseInt" />
       <item value="WK DATE" />
       <item value="literal does not match format string" />
       <item value=" Add unambiguous imports on the fly&#10;" />
@@ -53,8 +55,6 @@
       <item value="set Map Underscore To Camel Case" />
       <item value="is Db Column Underline" />
       <item value="get Identifier Quote" />
-      <item value="Vendor Database Id Provider" />
-      <item value="注解" />
     </histories>
     <option name="languageScores">
       <map>
