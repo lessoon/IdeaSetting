@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="idea" />
       <item value="parse" />
       <item value="parseInt" />
       <item value="WK DATE" />
@@ -54,7 +55,6 @@
       <item value="compare" />
       <item value="set Map Underscore To Camel Case" />
       <item value="is Db Column Underline" />
-      <item value="get Identifier Quote" />
     </histories>
     <option name="languageScores">
       <map>
