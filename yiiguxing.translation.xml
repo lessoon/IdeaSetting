@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="REPORT" />
+      <item value="If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;if myOptionalVar??&gt;when-present&lt;else&gt;when-missing&lt;if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
       <item value="生成" />
       <item value="s" />
       <item value="allows" />
@@ -53,13 +55,11 @@
       <item value="记得" />
       <item value="jide" />
       <item value="Marry me" />
-      <item value="ID ------------Marry me" />
-      <item value="ID ------------" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="38" />
         <entry key="AMHARIC" value="1" />
         <entry key="CHICHEWA" value="1" />
       </map>
