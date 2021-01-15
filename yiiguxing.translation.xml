@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="生成" />
+      <item value="s" />
       <item value="allows" />
       <item value="NAMED-DRIVER" />
       <item value="BIZ_REV_BILL" />
@@ -53,8 +55,6 @@
       <item value="Marry me" />
       <item value="ID ------------Marry me" />
       <item value="ID ------------" />
-      <item value="exclude" />
-      <item value="step" />
     </histories>
     <option name="languageScores">
       <map>
