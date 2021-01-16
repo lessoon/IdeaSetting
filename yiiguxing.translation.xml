@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="请检查ReportNameMapping.json是否存在" />
+      <item value="请检查ReportNameMapping.jsonshi" />
+      <item value="请检查ReportNameMapping.json" />
+      <item value="请检查" />
+      <item value="q" />
       <item value="生成" />
       <item value="generator " />
       <item value="generator Report" />
@@ -50,11 +55,6 @@
       <item value="Get report date is not today!" />
       <item value="MybatisCodeHelperPro plugin conflict found: MybatisCodeHelperPro plugin has conflict with freeMybatisPlugin,Mybatisx,mybatisLite,minbatis,Toolkit please uninstall them first" />
       <item value="MybatisCodeHelperPro plugin conflict found: MybatisCodeHelperPro plugin has conflict with freeMybatisPlugin,Mybatisx,mybatisLite,minbatis,Toolkit please uninstall them firstMybatisCodeHelperPro plugin conflict found: MybatisCodeHelperPro plugin has conflict with freeMybatisPlugin,Mybatisx,mybatisLite,minbatis,Toolkit please uninstall them first" />
-      <item value="program name" />
-      <item value="程序" />
-      <item value="program" />
-      <item value="chengxu " />
-      <item value="cheng" />
     </histories>
     <option name="languageScores">
       <map>
