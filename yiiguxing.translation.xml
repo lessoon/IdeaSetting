@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" NEW or OLD references not allowed in table level triggers&#10;" />
       <item value="'Update' statement without 'where' updates all table rows at once " />
       <item value="True peace is not merely the absence of tension; it is the presence of justice.&#10;" />
       <item value="column" />
@@ -54,7 +55,6 @@
       <item value="NONE" />
       <item value="文档" />
       <item value="Unchecked generics array creation for varargs parameter " />
-      <item value="CONTROL" />
     </histories>
     <option name="languageScores">
       <map>
