@@ -8,6 +8,7 @@
       <mapping pattern="MANUAL MATCHING (PAYMENT INSTRUCTION) REOPORT" type="PLAIN_TEXT" />
       <mapping pattern="CM3BKBH" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="MANUAL MATCH ING(PAYMENT INSTRUCT ION) REPORT" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
