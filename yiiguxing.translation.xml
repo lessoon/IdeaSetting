@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="multiple&#10;" />
       <item value="restore&#10;" />
       <item value="re" />
       <item value="present" />
@@ -54,7 +55,6 @@
       <item value="literal does not match format string" />
       <item value=" Add unambiguous imports on the fly&#10;" />
       <item value=" Optimize imports on the fly&#10;" />
-      <item value="Returns an immutable list containing only the specified object.&#10;The returned list is serializable." />
     </histories>
     <option name="languageScores">
       <map>
