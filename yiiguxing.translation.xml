@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="manual" />
+      <item value="manualCount" />
       <item value="multiple&#10;" />
       <item value="restore&#10;" />
       <item value="re" />
@@ -53,8 +55,6 @@
       <item value="parseInt" />
       <item value="WK DATE" />
       <item value="literal does not match format string" />
-      <item value=" Add unambiguous imports on the fly&#10;" />
-      <item value=" Optimize imports on the fly&#10;" />
     </histories>
     <option name="languageScores">
       <map>
