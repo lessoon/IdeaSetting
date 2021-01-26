@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="multiple" />
+      <item value="multi" />
+      <item value="mult" />
+      <item value="慕；" />
       <item value="manual" />
       <item value="manualCount" />
       <item value="multiple&#10;" />
@@ -51,10 +55,6 @@
       <item value=" software is prevented by system&#10; please open &quot;System Preferences &gt;&#10; Security &amp; Privacy -&gt; General&quot;&#10; allow &quot;SANGFOR Technoiogies Company&#10; Limited&quot; soft,&#10; then login again.&#10;" />
       <item value="Constant expression required&#10;" />
       <item value="idea" />
-      <item value="parse" />
-      <item value="parseInt" />
-      <item value="WK DATE" />
-      <item value="literal does not match format string" />
     </histories>
     <option name="languageScores">
       <map>
