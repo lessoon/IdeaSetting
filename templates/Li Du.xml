@@ -1,12 +1,12 @@
 <templateSet group="Li Du">
-  <template name="Lists" value="List&lt;$T$&gt; $param$ = Lists.newArrayList();" toReformat="false" toShortenFQNames="true">
+  <template name="Lists" value="List&lt;$T$&gt; $param$ = Lists.newArrayList();" description="" toReformat="false" toShortenFQNames="true">
     <variable name="T" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tomap" value="Map&lt;String, $T$&gt; $name$ = $a$&#10;        .stream()&#10;        .collect(Collectors.toMap($T$::$method$, item -&gt; item));" toReformat="false" toShortenFQNames="true">
+  <template name="tomap" value="Map&lt;String, $T$&gt; $name$ = $a$&#10;        .stream()&#10;        .collect(Collectors.toMap($T$::$method$, item -&gt; item));" description="" toReformat="false" toShortenFQNames="true">
     <variable name="T" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
