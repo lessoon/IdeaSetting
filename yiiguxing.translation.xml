@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="write" />
       <item value="百分比" />
       <item value="multiple" />
       <item value="multi" />
@@ -54,7 +55,6 @@
       <item value="BIZ_REV_BILL" />
       <item value=" software is prevented by system&#10; please open &quot;System Preferences &gt;&#10; Security &amp; Privacy -&gt; General&quot;&#10; alllow &quot;SANGFOR Technoiogies Company&#10; Limited&quot; soft,&#10; then login again.&#10;" />
       <item value=" software is prevented by system&#10; please open &quot;System Preferences &gt;&#10; Security &amp; Privacy -&gt; General&quot;&#10; allow &quot;SANGFOR Technoiogies Company&#10; Limited&quot; soft,&#10; then login again.&#10;" />
-      <item value="Constant expression required&#10;" />
     </histories>
     <option name="languageScores">
       <map>
