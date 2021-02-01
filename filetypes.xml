@@ -9,6 +9,7 @@
       <mapping pattern="CM3BKBH" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="MANUAL MATCH ING(PAYMENT INSTRUCT ION) REPORT" type="PLAIN_TEXT" />
+      <mapping ext="052" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="012" type="PLAIN_TEXT" />
