@@ -11,6 +11,7 @@
       <mapping pattern="MANUAL MATCH ING(PAYMENT INSTRUCT ION) REPORT" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
+      <mapping ext="012" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
