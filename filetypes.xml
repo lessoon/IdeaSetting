@@ -1,22 +1,17 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="NPSPOSCD" type="PLAIN_TEXT" />
-      <mapping pattern="MANUAL MATCHING (PAYMENT INSTRUCTION) REOPORT" type="PLAIN_TEXT" />
       <mapping pattern="CM3BKBH" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="MANUAL MATCH ING(PAYMENT INSTRUCT ION) REPORT" type="PLAIN_TEXT" />
-      <mapping ext="052" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping pattern="NPSPOSCD" type="PLAIN_TEXT" />
+      <mapping pattern="MANUAL MATCHING (PAYMENT INSTRUCTION) REOPORT" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
-      <mapping ext="012" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
