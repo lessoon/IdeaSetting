@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please read the Apple Beta Software Program Agreement carefully. It represents a legal agreement between you and Apple regarding Apple’s proprietary and confidential information. Please keep in mind that you should not install beta software on production or business-critical systems. We strongly recommend installing beta software on a secondary system or device, or on a secondary partition on your Mac." />
       <item value="[enforce fail at inline_container.cc:110] . file in archive is not in a subdirectory: 0051115Q_000001_0003.png&#10;" />
       <item value=" Torch not compiled with CUDA enabled" />
       <item value="The /model directory contains all the scripts that define the architecture. Follow the example to run inference using our model." />
@@ -54,7 +55,6 @@
       <item value="generato rReport" />
       <item value="rmcD008CodEntity" />
       <item value="REPORT" />
-      <item value="If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;if myOptionalVar??&gt;when-present&lt;else&gt;when-missing&lt;if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
     </histories>
     <option name="languageScores">
       <map>
