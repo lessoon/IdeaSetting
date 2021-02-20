@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="erase&#10;" />
+      <item value="eras" />
       <item value="Postpone" />
       <item value="manually" />
       <item value="manual l" />
@@ -53,8 +55,6 @@
       <item value="请检查" />
       <item value="q" />
       <item value="生成" />
-      <item value="generator " />
-      <item value="generator Report" />
     </histories>
     <option name="languageScores">
       <map>
