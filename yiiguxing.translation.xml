@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is already defined" />
       <item value="标题" />
       <item value="If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use &lt;if myOptionalVar??&gt;when-present&lt;else&gt;when-missing&lt;if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??" />
       <item value="remove Some MT" />
@@ -54,7 +55,6 @@
       <item value="触发器" />
       <item value="offset" />
       <item value="偏移" />
-      <item value="pian yi" />
     </histories>
     <option name="languageScores">
       <map>
