@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Closing non transactional SqlSession" />
       <item value="flat white" />
       <item value="flat " />
       <item value="cappuccino" />
@@ -54,7 +55,6 @@
       <item value="p re" />
       <item value="p" />
       <item value="invalid identifier" />
-      <item value=" NEW or OLD references not allowed in table level triggers&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614044767822" />
+    <option name="lastTrimTime" value="1614564846742" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
