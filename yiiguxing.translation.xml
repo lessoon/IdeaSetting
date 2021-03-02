@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="默认" />
+      <item value="more" />
+      <item value="乱码" />
+      <item value="系统" />
       <item value="Limit Exceeded!" />
       <item value="Closing non transactional SqlSession" />
       <item value="flat white" />
@@ -51,10 +55,6 @@
       <item value="manualCount" />
       <item value="multiple&#10;" />
       <item value="restore&#10;" />
-      <item value="re" />
-      <item value="present" />
-      <item value="p re" />
-      <item value="p" />
     </histories>
     <option name="languageScores">
       <map>
