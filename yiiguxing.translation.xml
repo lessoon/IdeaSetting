@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="invalid agentid, hint&#10;" />
       <item value="默认" />
       <item value="more" />
       <item value="乱码" />
@@ -54,7 +55,6 @@
       <item value="manual" />
       <item value="manualCount" />
       <item value="multiple&#10;" />
-      <item value="restore&#10;" />
     </histories>
     <option name="languageScores">
       <map>
