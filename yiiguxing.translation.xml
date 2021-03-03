@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="存在" />
+      <item value="c" />
       <item value="原生的" />
       <item value="原生" />
       <item value="原始" />
@@ -53,8 +55,6 @@
       <item value="cfgRecvs&#10;" />
       <item value="write" />
       <item value="百分比" />
-      <item value="multiple" />
-      <item value="multi" />
     </histories>
     <option name="languageScores">
       <map>
