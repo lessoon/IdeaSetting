@@ -3,9 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.xml</mask>
-    <mask>*.md</mask>
     <mask>*.java</mask>
     <mask>*.ftl</mask>
+    <mask>*.md</mask>
   </component>
 </application>
