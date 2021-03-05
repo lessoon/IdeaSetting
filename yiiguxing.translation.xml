@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="1或者2必须有一个是昨天" />
+      <item value="1或者2必须有一个是" />
+      <item value="1或者2" />
+      <item value="1或者" />
+      <item value="xx之一" />
+      <item value="xx&#10;之一" />
+      <item value="之一" />
+      <item value="大于" />
+      <item value="da" />
       <item value="默认" />
       <item value="mo" />
       <item value="前天" />
@@ -46,15 +55,6 @@
       <item value="eras" />
       <item value="Postpone" />
       <item value="manually" />
-      <item value="manual l" />
-      <item value="man" />
-      <item value="Please read the Apple Beta Software Program Agreement carefully. It represents a legal agreement between you and Apple regarding Apple’s proprietary and confidential information. Please keep in mind that you should not install beta software on production or business-critical systems. We strongly recommend installing beta software on a secondary system or device, or on a secondary partition on your Mac." />
-      <item value="[enforce fail at inline_container.cc:110] . file in archive is not in a subdirectory: 0051115Q_000001_0003.png&#10;" />
-      <item value=" Torch not compiled with CUDA enabled" />
-      <item value="The /model directory contains all the scripts that define the architecture. Follow the example to run inference using our model." />
-      <item value="Present&#10;" />
-      <item value="using&#10;" />
-      <item value="cfgRecvs&#10;" />
     </histories>
     <option name="languageScores">
       <map>
