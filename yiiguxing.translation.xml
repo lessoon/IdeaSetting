@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="成功" />
       <item value="1或者2必须有一个是昨天" />
       <item value="1或者2必须有一个是" />
       <item value="1或者2" />
@@ -54,7 +55,6 @@
       <item value="erase&#10;" />
       <item value="eras" />
       <item value="Postpone" />
-      <item value="manually" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614564846742" />
+    <option name="lastTrimTime" value="1614997318967" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
