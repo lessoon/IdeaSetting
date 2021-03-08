@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RoomSql" injector-id="java">
+      <display-name>AbstractDb.query (cn.hutool.db)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "java.lang.Object...").definedInClass("cn.hutool.db.AbstractDb"))]]></place>
+    </injection>
+  </component>
+</application>
