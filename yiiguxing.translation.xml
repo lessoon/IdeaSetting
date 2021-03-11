@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" syntax error near unexpected token `&lt;'" />
+      <item value="AuthorizationQueryParametersErrorQuery-string authentication version 4 requires the X-Amz-Algorithm, X-Amz-Credential, X-Amz-Signature, X-Amz-Date, X-Amz-SignedHeaders, and X-Amz-Expires parameters.G7XKF4XYFY95VYQZEfDoxLaXXajEijnt/NF05xf+hwmVb6oi+GBn8WgfG0Xqd1EXF5ZRn66xXa1nqKLeqyBQEaLRjLY=" />
       <item value="结构&#10;" />
       <item value="每日" />
       <item value="journal" />
@@ -53,8 +55,6 @@
       <item value="remove Some MT" />
       <item value="remove Some Mt" />
       <item value="remove SomeMt" />
-      <item value="removeSomeMt" />
-      <item value="RmcD024" />
     </histories>
     <option name="languageScores">
       <map>
