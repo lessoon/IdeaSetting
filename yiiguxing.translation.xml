@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Identity added" />
+      <item value="atlant" />
       <item value="Account must be funded by credit card or PayPal before making a Bitcoin deposit." />
       <item value="Account must be funded by credit card or PayPal before making a Bitcoin deposit.&#10;" />
       <item value="You are almost ready to deploy servers - please link a payment method to get started!" />
@@ -53,8 +55,6 @@
       <item value="flat " />
       <item value="cappuccino" />
       <item value="cappuccina" />
-      <item value="cappu" />
-      <item value="capp" />
     </histories>
     <option name="languageScores">
       <map>
