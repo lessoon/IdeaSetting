@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="生成" />
+      <item value="s" />
       <item value="Philippines" />
       <item value="Identity added" />
       <item value="atlant" />
@@ -53,8 +55,6 @@
       <item value="Limit Exceeded!" />
       <item value="Closing non transactional SqlSession" />
       <item value="flat white" />
-      <item value="flat " />
-      <item value="cappuccino" />
     </histories>
     <option name="languageScores">
       <map>
