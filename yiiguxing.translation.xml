@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="1338" />
-    <option name="newTranslationDialogX" value="164" />
+    <option name="newTranslationDialogX" value="187" />
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="To enable automatic checking for updates, go to System Preferences &gt; Software Update and check “Automatically keep my Mac up to date”." />
       <item value="生成" />
       <item value="s" />
       <item value="Philippines" />
@@ -54,7 +55,6 @@
       <item value="系统" />
       <item value="Limit Exceeded!" />
       <item value="Closing non transactional SqlSession" />
-      <item value="flat white" />
     </histories>
     <option name="languageScores">
       <map>
