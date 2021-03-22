@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="xunh" />
+      <item value="loop&#10;" />
       <item value="循环&#10;" />
       <item value="x" />
       <item value="To enable automatic checking for updates, go to System Preferences &gt; Software Update and check “Automatically keep my Mac up to date”." />
@@ -53,8 +55,6 @@
       <item value="y" />
       <item value="invalid agentid, hint&#10;" />
       <item value="more" />
-      <item value="乱码" />
-      <item value="系统" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615878499688" />
+    <option name="lastTrimTime" value="1616385692574" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
