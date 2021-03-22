@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="循环&#10;" />
+      <item value="x" />
       <item value="To enable automatic checking for updates, go to System Preferences &gt; Software Update and check “Automatically keep my Mac up to date”." />
       <item value="生成" />
       <item value="s" />
@@ -53,8 +55,6 @@
       <item value="more" />
       <item value="乱码" />
       <item value="系统" />
-      <item value="Limit Exceeded!" />
-      <item value="Closing non transactional SqlSession" />
     </histories>
     <option name="languageScores">
       <map>
