@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="how" />
       <item value="xunh" />
       <item value="loop&#10;" />
       <item value="循环&#10;" />
@@ -54,7 +55,6 @@
       <item value="原声" />
       <item value="y" />
       <item value="invalid agentid, hint&#10;" />
-      <item value="more" />
     </histories>
     <option name="languageScores">
       <map>
