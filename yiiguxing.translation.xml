@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="manual distrbution" />
+      <item value="manual distrbu" />
+      <item value="manual distr " />
+      <item value="manual distr" />
+      <item value="manual di s t" />
+      <item value="manual d" />
+      <item value="manual " />
+      <item value="manual" />
+      <item value="man" />
+      <item value="m" />
       <item value="NO OF TRANSACTIONS (DISTRIBUTED BY TELLER)" />
       <item value="NO OF TRANSACTIONS (DISTRIBUTED BY SYSTEM)" />
       <item value="不需要提交·" />
@@ -45,16 +55,6 @@
       <item value="1或者2必须有一个是昨天" />
       <item value="1或者2必须有一个是" />
       <item value="1或者2" />
-      <item value="1或者" />
-      <item value="xx之一" />
-      <item value="xx&#10;之一" />
-      <item value="之一" />
-      <item value="大于" />
-      <item value="da" />
-      <item value="默认" />
-      <item value="mo" />
-      <item value="前天" />
-      <item value="存在" />
     </histories>
     <option name="languageScores">
       <map>
