@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="area" />
       <item value="修改前" />
       <item value="xiugai " />
       <item value="afterupdate" />
@@ -54,7 +55,6 @@
       <item value="AuthorizationQueryParametersErrorQuery-string authentication version 4 requires the X-Amz-Algorithm, X-Amz-Credential, X-Amz-Signature, X-Amz-Date, X-Amz-SignedHeaders, and X-Amz-Expires parameters.G7XKF4XYFY95VYQZEfDoxLaXXajEijnt/NF05xf+hwmVb6oi+GBn8WgfG0Xqd1EXF5ZRn66xXa1nqKLeqyBQEaLRjLY=" />
       <item value="结构&#10;" />
       <item value="每日" />
-      <item value="journal" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616385692574" />
+    <option name="lastTrimTime" value="1616986821529" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
