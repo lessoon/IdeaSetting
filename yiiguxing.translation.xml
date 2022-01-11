@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="capital" />
       <item value="morning call" />
       <item value="morning" />
       <item value="mo r" />
@@ -54,7 +55,6 @@
       <item value="NO OF TRANSACTIONS (DISTRIBUTED BY SYSTEM)" />
       <item value="不需要提交·" />
       <item value="不需要提交" />
-      <item value="不需要日记啊" />
     </histories>
     <option name="languageScores">
       <map>
