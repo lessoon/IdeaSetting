@@ -7,5 +7,6 @@
     <mask>*.ftl</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
+    <mask>5ttwqs</mask>
   </component>
 </application>
