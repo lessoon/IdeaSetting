@@ -6,8 +6,10 @@
       <mapping pattern="NPSPOSCD" type="PLAIN_TEXT" />
       <mapping pattern="MANUAL MATCHING (PAYMENT INSTRUCTION) REOPORT" type="PLAIN_TEXT" />
       <mapping ext="052" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="2f1d3360" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="nd" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
